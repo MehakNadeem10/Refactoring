@@ -1,6 +1,6 @@
 package pk.edu.pucit;
 
-public class Calculator {
+public class calculator {
 public int add(int a, int b) {
 int result = a + b;
 return result;
